@@ -1,0 +1,30 @@
+{
+  "name": "composer",
+  "main": [
+    "src/ba-debug.js",
+    "src/composer.js",
+    "src/resources.js",
+    "src/websocket.js",
+    "src/directives.js"
+  ],
+  "description": "",
+  "dependencies": {
+    "angular": "1.x",
+    "angular-resource": "1.x",
+    "angular-safeapply": "latest",
+    "oauth-interceptor": "latest"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/advancedcontrol/composer",
+  "version": "2.1.5",
+  "_release": "2.1.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.1.5",
+    "commit": "9cd5963f54103d669cb19938b3d9312325e26536"
+  },
+  "_source": "git://github.com/advancedcontrol/composer.git",
+  "_target": "~2.1.5",
+  "_originalSource": "composer",
+  "_direct": true
+}

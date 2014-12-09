@@ -1,0 +1,15 @@
+{
+  "name": "viaduct-css",
+  "version": "0.1.10",
+  "dependencies": [],
+  "homepage": "https://github.com/ViaductCSS/Viaduct",
+  "_release": "0.1.10",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.10",
+    "commit": "cf483df16675ebd62f8d62eee0b7e762ee793be8"
+  },
+  "_source": "git://github.com/ViaductCSS/Viaduct.git",
+  "_target": "*",
+  "_originalSource": "viaduct-css"
+}
